@@ -1,5 +1,6 @@
 # cart-app
 frontend application using simple html, css and js
+* Check it out here:  https://cart-app-khsh.netlify.app/ *
 
 What i have learned from cart-app creation :
 - js basics (import function, createElement,..)
